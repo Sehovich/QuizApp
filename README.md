@@ -1,2 +1,2 @@
 # QuizApp
-JavaScript Marathon 2021
+JavaScript Marathon 2022
